@@ -1,10 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on k
-- 🌱 I’m currently learning p
-- 👯 I’m looking to collaborate on proy
-- 🤔 I’m looking for help with dd
-- 💬 Ask me about sd
-- 📫 How to reach me: ff
-- 😄 Pronouns: b
-- ⚡ Fun fact: d
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about 
+- 📫 How to reach me: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
